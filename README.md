@@ -8,6 +8,11 @@ This project showcases a structured SQL data exploration process performed on a 
 
 ## 🔍 Project Overview
 
+
+
+/SQL_Data_Exploration.png
+
+
 The following tasks were completed to explore and gain insights from the dataset:
 
 ### 1. Data Understanding
