@@ -10,7 +10,12 @@ This project showcases a structured SQL data exploration process performed on a 
 
 
 
-/SQL_Data_Exploration.png
+## 📊 Power BI Dashboard
+
+To visualize the insights gained from SQL exploration, a Power BI dashboard was created. It presents key metrics and visual breakdowns by country, category, and product.
+
+![Power BI Dashboard Screenshot](/SQL_Data_Exploration.png)
+
 
 
 The following tasks were completed to explore and gain insights from the dataset:
@@ -57,7 +62,7 @@ The data was categorized into:
 - Compared **measure values** across different **product categories** and other dimensions to identify trends and high-performing segments.
 
 ### 🔹 Ranking Analysis
-- Used **SQL Window Functions** (`RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`) to:
+- Used **SQL Window Functions** (`RANK()`, `ROW_NUMBER()`) to:
   - Rank dimensions (e.g., products or countries) based on various measures such as total sales or number of orders.
 
 ---
@@ -65,7 +70,8 @@ The data was categorized into:
 ## 🛠️ Tools & Technologies
 
 - **SQL**
-- **RDBMS**: [Insert database name, e.g., MySQL / PostgreSQL / SQL Server]
+- **RDBMS**: [SQL Server]
+- **Power BI**
 
 ---
 
