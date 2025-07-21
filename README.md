@@ -80,7 +80,3 @@ The data was categorized into:
 This project demonstrated a methodical approach to SQL data exploration, transforming raw data into meaningful insights through profiling, aggregations, categorization, and analytical querying.
 
 ---
-
-
-│   ├── ranking_analysis.sql
-├── README.md
