@@ -81,12 +81,6 @@ This project demonstrated a methodical approach to SQL data exploration, transfo
 
 ---
 
-## 📁 Repository Structure
 
-```bash
-├── queries/
-│   ├── data_profiling.sql
-│   ├── aggregations.sql
-│   ├── dimension_analysis.sql
 │   ├── ranking_analysis.sql
 ├── README.md
